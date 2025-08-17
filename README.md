@@ -8,10 +8,13 @@ Welcome to my GitHub profile! 🚀
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Email](mailto:your-email@example.com)  
 
 
+---
 
-### 🐍 My Contributions Snake
+## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/anushkalowanshi/anushkalowanshi/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/anushkalowanshi/anushkalowanshi/output/github-contribution-grid-snake.svg)
+
+---
 
 
 ⭐️ From [anushkalowanshi](https://github.com/anushkalowanshi)
