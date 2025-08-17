@@ -1,9 +1,14 @@
+
 name: generate animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # daily
   workflow_dispatch:
+
+# 👇 IMPORTANT: allow the job to push to the repo
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -20,5 +25,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
