@@ -12,8 +12,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/anushkalowanshi/anushkalowanshi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/anushkalowanshi/anushkalowanshi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Contribution Snake](https://github.com/anushkalowanshi/anushkalowanshi/blob/output/github-contribution-grid-snake.svg?color_snake=#39d353)
 
 
 ---
