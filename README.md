@@ -7,12 +7,11 @@ Welcome to my GitHub profile! 🚀
 - ☁️ Microsoft Azure Certified  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com) | [Email](mailto:your-email@example.com)  
 
----
 
-### 🐍 My Contributions Snake  
+
+### 🐍 My Contributions Snake
 
 ![Snake animation](https://github.com/anushkalowanshi/anushkalowanshi/blob/output/snake.svg)
 
----
 
 ⭐️ From [anushkalowanshi](https://github.com/anushkalowanshi)
